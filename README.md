@@ -1,2 +1,3 @@
-# Cloudcredits
-This repository contains my Data Analytics Internship projects.
+# Titanic Dataset Analysis
+
+This project analyzes Titanic passenger data to predict survival chances using Python.
